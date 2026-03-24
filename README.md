@@ -1,8 +1,8 @@
-# 💻 Kunj Desai — Portfolio Website
+# 💻 Yogesh Prajapati — Portfolio Website
 Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.
 It showcases my work, projects, skills, and journey as a developer passionate about **AI, ML, and Web Technologies**.
 
-🌐 **Website:** [[[kunj-Portfolio]]](https://kunj-desai.vercel.app/)
+🌐 **Website:** [Yogesh Prajapati Link](https://yogeshportfolio96.netlify.app/)
 
 
 ## 🚀 Features
@@ -35,10 +35,10 @@ To run this project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/kunj2803/kunjdesai-portfolio.git
+git remote add origin https://github.com/yogesh/REPO_NAME.git
 
 # 2️⃣ Navigate to project directory
-cd kunjdesai-portfolio
+cd Yogesh
 
 # 3️⃣ Install dependencies
 npm install
@@ -56,13 +56,13 @@ Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
 If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
 * 📧 **Email:** [yogu4829@gmail.com](mailto:yogu4829@gmail.com)
-* 💼 **LinkedIn:** [[linkedin.com/in/kunj-desai-07717b293](https://www.linkedin.com/in/yogesh-prajapati-6384b92ab/)]
+* 💼 **LinkedIn:** https://www.linkedin.com/in/yogesh-prajapati-6384b92ab/
 
 ---
 
 ## 🌟 Deployment
 
-Deployed seamlessly on **Vercel** for continuous integration and fast CDN delivery.
+Deployed seamlessly on **netlify** for continuous integration and fast CDN delivery.
 Every push to the `main` branch triggers an automatic rebuild and deployment.
 
 ---
